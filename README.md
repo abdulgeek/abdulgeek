@@ -1,81 +1,98 @@
-# 🗡️ CostKatana — AI Cost Intelligence & Optimization Platform
+<h1 align="center">🗡️ <span style="color:#00ff99;">CostKatana</span></h1>
 
-[![Website](https://img.shields.io/badge/website-costkatana.com-blue)](https://costkatana.com)
-[![App](https://img.shields.io/badge/app-app.costkatana.com-purple)](https://app.costkatana.com)
-[![Docs](https://img.shields.io/badge/docs-docs.costkatana.com-green)](https://docs.costkatana.com)
-[![Status](https://img.shields.io/badge/status-status.costkatana.com-lightgrey)](https://status.costkatana.com)
-[![npm](https://img.shields.io/npm/v/cost-katana)](https://www.npmjs.com/package/cost-katana)
-[![CLI](https://img.shields.io/npm/v/cost-katana-cli)](https://www.npmjs.com/package/cost-katana-cli)
-[![PyPI](https://img.shields.io/pypi/v/cost-katana)](https://pypi.org/project/cost-katana/)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-CostKatana-AI-orange)](https://chatgpt.com/g/g-68804444e5e48191a5a7ae35a268e1dc-cost-katana-ai-cost-intelligence)
+<p align="center">
+  <strong><span style="color:#00ff99;">AI Cost Intelligence & Optimization Platform</span></strong><br/>
+  <em>Understand, track, and optimize your AI infrastructure costs in real time.</em>
+</p>
 
----
+<p align="center">
+  <a href="https://costkatana.com"><img src="https://img.shields.io/badge/Website-costkatana.com-00ff99?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://app.costkatana.com"><img src="https://img.shields.io/badge/App-app.costkatana.com-008f6b?style=for-the-badge&logo=react&logoColor=white" /></a>
+  <a href="https://docs.costkatana.com"><img src="https://img.shields.io/badge/Docs-docs.costkatana.com-00b873?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
+  <a href="https://status.costkatana.com"><img src="https://img.shields.io/badge/Status-status.costkatana.com-006644?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+</p>
 
-## 🚀 About CostKatana
-
-CostKatana is a **developer-first AI cost intelligence platform** that helps teams, startups, and enterprises **track, analyze, and optimize AI spending in real time**. Gain full visibility across models, prompts, and cloud providers — and get actionable insights to reduce costs while maximizing performance.
-
----
-
-## 🧩 Features
-
-- **Multi-provider cost tracking:** OpenAI, Anthropic, AWS Bedrock, and more  
-- **Real-time usage & spend analytics** with dashboards and reports  
-- **Prompt-level cost insights** for smarter AI usage  
-- **Developer SDKs & CLI tools** for seamless integration  
-  - [JavaScript SDK](https://www.npmjs.com/package/cost-katana)  
-  - [CLI Toolkit](https://www.npmjs.com/package/cost-katana-cli)  
-  - [Python SDK](https://pypi.org/project/cost-katana/)  
-- **ChatGPT integration** for in-context AI cost intelligence  
-- **System monitoring & uptime status** at [status.costkatana.com](https://status.costkatana.com)  
-- Comprehensive **developer docs** → [docs.costkatana.com](https://docs.costkatana.com)  
+<p align="center">
+  <a href="https://www.npmjs.com/package/cost-katana"><img src="https://img.shields.io/npm/v/cost-katana?style=flat-square&color=00ff99&label=SDK" /></a>
+  <a href="https://www.npmjs.com/package/cost-katana-cli"><img src="https://img.shields.io/npm/v/cost-katana-cli?style=flat-square&color=00b873&label=CLI" /></a>
+  <a href="https://pypi.org/project/cost-katana/"><img src="https://img.shields.io/pypi/v/cost-katana?style=flat-square&color=008f6b&label=PyPI" /></a>
+  <a href="https://chatgpt.com/g/g-68804444e5e48191a5a7ae35a268e1dc-cost-katana-ai-cost-intelligence"><img src="https://img.shields.io/badge/ChatGPT-Integration-00ff99?style=flat-square&logo=openai&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🧠 My Role as Co-Founder
+## 🌌 About
 
-As **Co-Founder**, I lead **product vision, architecture, and strategy**:
+**CostKatana** is a next-gen **AI Cost Intelligence & Optimization Platform**.  
+We help developers, teams, and enterprises **monitor, analyze, and optimize AI usage costs** across providers — from OpenAI to Anthropic to AWS Bedrock.
 
-- Built **multi-provider AI cost tracking pipelines**  
-- Developed the **full-stack dashboard** ([app.costkatana.com](https://app.costkatana.com))  
-- Published **SDKs & CLI tools** for developer-first experience  
-- Integrated **ChatGPT app** for real-time actionable insights  
-- Maintained **docs & monitoring** for smooth user adoption  
+Our mission is simple:  
+> ⚔️ *Make AI cost visibility and control as native as observability.*
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Core Features
 
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express, Tyoescript
-- **Cloud & Infra:** AWS ECS, Lambda, Bedrock, MongoDB Atlas  
-- **APIs & Integrations:** OpenAI, Anthropic, custom cost analytics  
-- **Dev Tools:** NPM, PyPI, CLI, SDKs  
-
----
-
-## 🌍 Mission
-
-> To make **AI cost intelligence as native as observability**, enabling developers and teams to **understand, control, and optimize AI spending effortlessly**.
+✅ **Multi-Provider Cost Tracking** — OpenAI, Anthropic, Bedrock & beyond  
+📊 **Real-Time Dashboards** — Model, prompt, and token-level analytics  
+🧠 **Smart Insights Engine** — Get actionable cost-optimization suggestions  
+🧰 **Developer Tooling** — SDKs, CLI, and APIs for deep integration  
+🤖 **ChatGPT Integration** — AI-native insights inside your ChatGPT workspace  
+🕵️ **Uptime & Status Tracking** — [status.costkatana.com](https://status.costkatana.com)
 
 ---
 
-## 📧 Contact / Support
+## 💻 SDKs & Tools
 
-For questions or support, reach out: [support@costkatana.com](mailto:support@costkatana.com)  
+| Package | Description | Link |
+|----------|--------------|------|
+| 🧩 **JavaScript SDK** | For Node.js and web apps | [npmjs.com/package/cost-katana](https://www.npmjs.com/package/cost-katana) |
+| ⚙️ **CLI Toolkit** | Track costs directly from terminal | [npmjs.com/package/cost-katana-cli](https://www.npmjs.com/package/cost-katana-cli) |
+| 🐍 **Python SDK** | For ML pipelines and AI apps | [pypi.org/project/cost-katana](https://pypi.org/project/cost-katana/) |
 
----
-
-### ⭐ Explore & Contribute
-
-Check out the SDKs and tools:
-
-- [JavaScript SDK](https://www.npmjs.com/package/cost-katana)  
-- [CLI Toolkit](https://www.npmjs.com/package/cost-katana-cli)  
-- [Python SDK](https://pypi.org/project/cost-katana/)  
-
-Visit the [Docs](https://docs.costkatana.com) to get started quickly.  
+📘 **Docs:** [docs.costkatana.com](https://docs.costkatana.com)  
+🧭 **App Dashboard:** [app.costkatana.com](https://app.costkatana.com)
 
 ---
 
-Made with 🗡️ by **Abdul & Team** | Co-Founder, CostKatana
+## 🧠 My Role — *Co-Founder @ CostKatana*
+
+As Co-Founder, I lead **product vision, architecture, and developer experience**.
+
+- Designed and built **multi-provider cost tracking** pipelines  
+- Engineered the **full-stack real-time dashboard**  
+- Published and maintained **open-source SDKs and CLI tools**  
+- Integrated **ChatGPT-based cost intelligence**  
+- Created **documentation and uptime systems** for reliability  
+
+---
+
+## ⚙️ Tech Stack
+
+| Layer | Technologies |
+|-------|---------------|
+| 🖥️ Frontend | React, Next.js, TailwindCSS |
+| ⚙️ Backend | Node.js, Express, Typescript |
+| ☁️ Cloud | AWS ECS, Lambda, Bedrock, MongoDB Atlas |
+| 🧩 Integrations | OpenAI, Anthropic, Bedrock APIs |
+| 💡 Tooling | NPM, PyPI, CLI, SDKs |
+
+---
+
+## 🌱 Mission
+
+> Empower every developer and team with **AI cost visibility and control**,  
+> making intelligent AI usage **transparent, affordable, and measurable**.
+
+---
+
+<p align="center">
+  <a href="https://costkatana.com"><img src="https://img.shields.io/badge/🌐_Visit%20Website-00ff99?style=for-the-badge" /></a>
+  <a href="https://app.costkatana.com"><img src="https://img.shields.io/badge/⚡_Launch%20App-008f6b?style=for-the-badge" /></a>
+  <a href="https://docs.costkatana.com"><img src="https://img.shields.io/badge/📘_Read%20Docs-00b873?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  🗡️ Built with passion by <strong>Abdul & Team</strong><br/>
+  💬 Contact us at <a href="mailto:support@costkatana.com">support@costkatana.com</a>
+</p>
